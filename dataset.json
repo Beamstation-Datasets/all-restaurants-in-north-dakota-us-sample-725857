@@ -1,0 +1,22 @@
+{
+  "base_price": 7450,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All restaurant listings across the state of North Dakota. Filtered by the Restaurants category group, this statewide export includes verified business profiles, review analytics, competitive benchmarks, and contact details for every active listing. Refreshed weekly.",
+  "config_name": "All Restaurants in North Dakota, US",
+  "export_job_id": "798b8f92-45b3-483e-b6d9-e76edbfafa96",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 725857,
+  "location_name": "North Dakota",
+  "location_type": "state",
+  "repo_name": "all-restaurants-in-north-dakota-us-sample-725857",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/725857/beamstation_725857_restaurants-us-nd_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 184,
+  "sample_sha256": "b83f09c2ea6388c2cb902b448b9cc817f8406eb7c2ceabab1aacc27633910292",
+  "sample_size_bytes": 501766,
+  "total_records": 1840,
+  "updated_at": "2026-04-14T19:50:52.993855+00:00"
+}
