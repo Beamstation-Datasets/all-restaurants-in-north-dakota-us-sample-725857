@@ -1,12 +1,12 @@
 {
-  "export_job_id": "798b8f92-45b3-483e-b6d9-e76edbfafa96",
+  "export_job_id": "99bb264b-09cd-4a3f-9643-c39cabd0d28a",
   "id_short": 725857,
-  "published_at": "2026-04-18T19:46:47Z",
+  "published_at": "2026-04-22T07:55:57Z",
   "repo_name": "all-restaurants-in-north-dakota-us-sample-725857",
   "sample_asset_name": "beamstation_725857_restaurants-us-nd_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/725857/beamstation_725857_restaurants-us-nd_SAMPLE_DIST.csv",
-  "sample_records": 184,
-  "sample_sha256": "b83f09c2ea6388c2cb902b448b9cc817f8406eb7c2ceabab1aacc27633910292",
-  "sample_size_bytes": 501766,
-  "total_records": 1840
+  "sample_records": 61,
+  "sample_sha256": "b7387b95c1a6e804586027cb8e90ee2581d75df4643e23b3a0cc18f2c816b6f2",
+  "sample_size_bytes": 149906,
+  "total_records": 618
 }
