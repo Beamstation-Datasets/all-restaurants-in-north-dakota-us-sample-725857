@@ -1,6 +1,6 @@
 # All Restaurants in North Dakota, US
 
-> Free BeamStation sample export with 190 rows and masked direct-contact fields.
+> Free BeamStation sample export with 198 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `725857` |
 | Location | North Dakota |
 | Category | Restaurants |
-| Full dataset size | 1,901 records |
-| Free sample size | 190 records (9.99%) |
-| Last export | 2026-04-29T00:42:47.926474+00:00 |
+| Full dataset size | 1,984 records |
+| Free sample size | 198 records (9.98%) |
+| Last export | 2026-05-08T07:53:36.840338+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-north-dakota-us-sample-725857/releases/download/sample-latest/beamstation_725857_restaurants-us-nd_SAMPLE_DIST.csv) |
 
 ## What is in this sample
